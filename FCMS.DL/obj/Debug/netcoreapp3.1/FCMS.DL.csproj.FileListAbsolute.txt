@@ -1,0 +1,9 @@
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\bin\Debug\netcoreapp3.1\FCMS.DL.deps.json
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\bin\Debug\netcoreapp3.1\FCMS.DL.dll
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\bin\Debug\netcoreapp3.1\FCMS.DL.pdb
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.csprojAssemblyReference.cache
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.AssemblyInfoInputs.cache
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.AssemblyInfo.cs
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.csproj.CoreCompileInputs.cache
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.dll
+C:\Users\(DARKCALL HACKING)\source\repos\FCMS\FCMS.DL\obj\Debug\netcoreapp3.1\FCMS.DL.pdb
